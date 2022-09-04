@@ -43,12 +43,6 @@
 
 ### Deployment
 - Polishing the application for Production use
-- Deploying NestJS apps to AWS
-- Deploying front-end apps to Amazon S3
-- Wiring up the front-end and back-end
-
-### Front-end application
-- Fully-featured front-end application that consumes the API
 
 <br />
 
